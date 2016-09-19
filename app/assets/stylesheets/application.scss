@@ -1,0 +1,33 @@
+@import 'materialize';
+
+.card {
+  padding-top: 9px;
+  height: 40px;
+  color: blue;
+}
+
+body {
+  // background-color: #212121;
+  background-image: url('movie.jpg')
+}
+
+h1 {
+  color: #000000;
+  background-color: #ffffff;
+  text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+}
+
+.nav-wrapper {
+  background-color: #fbc02d;
+}
+
+.btn {
+  background-color: #fbc02d;
+  border: 2px solid #212121;
+  border-radius: 4px;
+
+}
+
+.btn:hover {
+  background-color: #f57f17;
+}
